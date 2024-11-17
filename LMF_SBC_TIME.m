@@ -1,5 +1,5 @@
 function [X, F_all,time]= LMF_SBC_TIME(R,p,del,o,T)
-% This code is in the form of time counting for "LMF_SBC," and, compared to the original code, 
+% This code is in the form of time counting for "LMF_SBC" and, compared to the original code, 
 % it only adds the output of the running time ("time").
 %%%%%example%%%%
 % clear all

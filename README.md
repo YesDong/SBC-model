@@ -11,4 +11,4 @@ Including：
 
 4.Consensus prediction experiments  (Section 5.4 and Section 5.5)
 
-Experimental environment: Maalab2024b
+Experimental environment: Matlab2024b
